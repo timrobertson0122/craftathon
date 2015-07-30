@@ -14,7 +14,7 @@ Product owners will be on hand to give clarification and feedback will be collec
 
 ###Brief
 
-Create an online job board that satisfies the following user stories.
+Create an online job board that satisfies the following user stories.  We would like to see well crafted, test-driven code and a well thought out, slick interface.
 
 ```
 As an employer
@@ -36,6 +36,8 @@ I would like to be able to apply to jobs
 
 ###Optional extras
 
+One or more may be completed in any order.
+
 - Only pre approved users can create jobs
 - Only creators can update and delete posts
 - Users can update and delete their applications
@@ -44,34 +46,3 @@ I would like to be able to apply to jobs
 - Users can filter jobs by tags
 - Users can filter jobs by keyword
 - Make the app look pretty
-
-###Required job info
-
-```
-Company name:
-How big is your existing tech team?
-How many junior developer jobs are you looking to fill?
-What tech does the company use?
-What tech will they be working with?
-What will they be doing?
-What results will you want them to deliver?
-What difference will they make, why will they matter?
-What makes someone good at this job?
-What should they expect from your recruitment process?
-What character traits are you looking for?
-How will they be on-boarded?
-What will their training and development look like?
-How much will you pay?
-Where will they work?
-Would you accept applications for part-time employment?
-Can you sponsor visas?
-Additional info (text and links):
-```
-
-###Required applicant info
-
-```
-Name:
-Covering letter:
-Link to Github CV:
-```
