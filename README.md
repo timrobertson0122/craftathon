@@ -1,14 +1,16 @@
 #Craftathon-1
 
+Product owners will be on hand to give clarification and feedback will be collected to share with you after the event.
+
 ###Schedule
 
-10.00am to 1.00pm - Kickoff, teams assigned, brief released, sprint 1
+*10.00am to 1.00pm* - Kickoff, teams assigned, brief released, sprint 1
 
-1.00pm to 1.30pm - Lunch break
+*1.00pm to 1.30pm* - Lunch break
 
-1.30pm to 2.00pm - How to learn VIM
+*1.30pm to 2.00pm* - How to learn VIM
 
-2.00pm to 5.00pm - Sprint 2, presentation, get drunk, go home
+*2.00pm to 5.00pm* - Sprint 2, presentation, get drunk, go home
 
 ###Brief
 
@@ -45,6 +47,7 @@ I would like to be able to apply to jobs
 
 ###Required job info
 
+```
 Company name:
 How big is your existing tech team?
 How many junior developer jobs are you looking to fill?
@@ -63,9 +66,12 @@ Where will they work?
 Would you accept applications for part-time employment?
 Can you sponsor visas?
 Additional info (text and links):
+```
 
 ###Required applicant info
 
+```
 Name:
 Covering letter:
 Link to Github CV:
+```
