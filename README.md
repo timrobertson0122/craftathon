@@ -36,10 +36,10 @@ I would like to be able to apply to jobs
 
 ###Optional extras
 
-- Creators can update and delete posts
+- Only pre approved users can create jobs
+- Only creators can update and delete posts
 - Users can update and delete their applications
 - Users can login with github
-- Only pre approved users can create jobs
 - Creator can assign tags to jobs
 - Users can filter jobs by tags
 - Users can filter jobs by keyword
