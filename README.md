@@ -14,7 +14,7 @@ Product owners will be on hand to give clarification and feedback will be collec
 
 ###Brief
 
-Create an online job board that satisfies the following user stories.  We would like to see well crafted, test-driven code and a well thought out, slick interface.
+Create an online job board that satisfies the following user stories.  We would like to see well crafted, test-driven code and a well thought out, slick UX/UI.
 
 ```
 As an employer
