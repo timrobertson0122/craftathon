@@ -7,6 +7,6 @@ feature 'On the applications page' do
   end
   scenario 'viewing all applications' do
     visit '/jobapplications'
-    expect(page).to have_content 'Job application by John'
+    expect(page).to have_content 'Your application has been received.'
   end
 end
