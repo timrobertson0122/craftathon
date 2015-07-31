@@ -17,26 +17,36 @@ Brief
 
 Create an online job board that satisfies the following user stories. We would like to see well crafted, test-driven code and a well thought out, slick UX/UI.
 
+```
 As an employer
 So I can recruit suitable talent
 I would like to list my job openings
+```
 
+```
 As a junior developer
 So I can find a job that I want
 I would like to view information about available jobs
+```
 
+```
 As an employer
 So I can choose the right person for my job
 I would like to view applications
+```
 
+```
 As a junior developer
 So I can get the job that I want
 I would like to be able to apply to jobs
+```
 
+```
 As a website owner
 So I can give visitors the best experience possible
 I would like the website to look great
 Optional extras
+```
 
 One or more may be completed in any order.
 
