@@ -1,26 +1,9 @@
+
 [![Build Status](https://travis-ci.org/timrobertson0122/craftathon.svg?branch=master)](https://travis-ci.org/timrobertson0122/craftathon)
 [![Coverage Status](https://coveralls.io/repos/timrobertson0122/craftathon/badge.svg?branch=master&service=github)](https://coveralls.io/github/timrobertson0122/craftathon?branch=master)
 
 #Craftathon
 -----------
-
-## Prerequisites
-
-You will need the following things properly installed on your computer.
-
-* [Git](http://git-scm.com/)
-* Ruby on Rails
-* PSQL
-
-### Project setup on local environment
-
-```
-git clone git@github.com:timrobertson0122/craftathon.git
-cd craftathon
-bundle
-bin/rake db:create
-rails s
-```
 
 ###Brief
 
@@ -47,6 +30,41 @@ As a website owner
 So I can give visitors the best experience possible
 I would like the website to look great
 ```
+
+## Prerequisites
+
+You will need the following things properly installed on your computer.
+
+* [Git](http://git-scm.com/)
+* Ruby on Rails
+* PSQL
+
+### Project setup on local environment
+
+```
+git clone git@github.com:timrobertson0122/craftathon.git
+cd craftathon
+bundle
+bin/rake db:create
+rails s
+```
+
+#### Tests
+
+```
+bin/rake db:create RAILS_ENV=test
+rspec
+```
+
+Seed Database
+
+This creates 100 job applications:
+
+```bin/rake db:seed```
+
+Reset database:
+
+```bin/rake db:reset```
 
 ###Optional extras
 
