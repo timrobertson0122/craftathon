@@ -50,3 +50,5 @@ One or more may be completed in any order.
 - Users can filter jobs by tags
 - Users can filter jobs by keyword
 - +100 points for integrating the [typeform](http://typeform.io/) API
+
+If you want it, here's a link to our [employers' typeform](https://makersacademy.typeform.com/to/kS7a6e)
