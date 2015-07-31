@@ -9,9 +9,9 @@ feature 'On the home page' do
     expect(page).to have_content 'Available jobs'
   end
 
-  xscenario 'it allows ' do
+  xscenario 'it allows user as an employer' do
     visit '/'
     click_on 'I am looking for an employee'
-    expect(current_path).to eq '/'
+
   end
 end
