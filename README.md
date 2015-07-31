@@ -32,6 +32,10 @@ I would like to view applications
 As a junior developer
 So I can get the job that I want
 I would like to be able to apply to jobs
+
+As a website owner
+So I can give visitors the best experience possible
+I would like the website to look great
 ```
 
 ###Optional extras
