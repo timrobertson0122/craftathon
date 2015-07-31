@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+[![Build Status](https://travis-ci.org/timrobertson0122/craftathon.svg?branch=master)](https://travis-ci.org/timrobertson0122/craftathon)
+[![Coverage Status](https://coveralls.io/repos/timrobertson0122/craftathon/badge.svg?branch=master&service=github)](https://coveralls.io/github/timrobertson0122/craftathon?branch=master)
+
+>>>>>>> bcbf2fd06b014681af36af2b40d48861d37f9d0c
 #Craftathon-1
 
 Product owners will be on hand to give clarification and feedback will be collected to share with you after the event.

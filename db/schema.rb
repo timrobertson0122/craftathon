@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150731114117) do
+ActiveRecord::Schema.define(version: 20150731133944) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -45,6 +45,31 @@ ActiveRecord::Schema.define(version: 20150731114117) do
     t.datetime "updated_at",  null: false
   end
 
+  create_table "questionaires", force: :cascade do |t|
+    t.string   "company_name"
+    t.integer  "size"
+    t.integer  "positions"
+    t.string   "tech"
+    t.string   "actualtech"
+    t.text     "tasks"
+    t.text     "results"
+    t.text     "difference"
+    t.text     "ideal"
+    t.text     "recruitment"
+    t.text     "character"
+    t.text     "onboarding"
+    t.text     "training"
+    t.string   "pay"
+    t.string   "location"
+    t.string   "parttime"
+    t.datetime "created_at",   null: false
+    t.datetime "updated_at",   null: false
+    t.integer  "job_id"
+  end
+
+  add_index "questionaires", ["job_id"], name: "index_questionaires_on_job_id", using: :btree
+
   add_foreign_key "job_applications", "jobhunters"
   add_foreign_key "job_applications", "jobs"
+  add_foreign_key "questionaires", "jobs"
 end
