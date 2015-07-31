@@ -4,13 +4,13 @@ Product owners will be on hand to give clarification and feedback will be collec
 
 ###Schedule
 
-*10.00am to 1.00pm* - Kickoff, teams assigned, brief released, sprint 1
+**10.00am to 1.00pm** - Kickoff, teams assigned, brief released, sprint 1
 
-*1.00pm to 1.30pm* - Lunch break
+**1.00pm to 1.30pm** - Lunch break
 
-*1.30pm to 2.00pm* - How to learn VIM
+**1.30pm to 2.00pm** - How to learn VIM
 
-*2.00pm to 5.00pm* - Sprint 2, presentation, get drunk, go home
+**2.00pm to 5.00pm** - Sprint 2, presentation, get drunk, go home
 
 ###Brief
 
