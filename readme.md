@@ -1,19 +1,26 @@
 [![Build Status](https://travis-ci.org/timrobertson0122/craftathon.svg?branch=master)](https://travis-ci.org/timrobertson0122/craftathon)
 [![Coverage Status](https://coveralls.io/repos/timrobertson0122/craftathon/badge.svg?branch=master&service=github)](https://coveralls.io/github/timrobertson0122/craftathon?branch=master)
 
-#Craftathon-1
+#Craftathon
+-----------
 
-Product owners will be on hand to give clarification and feedback will be collected to share with you after the event.
+## Prerequisites
 
-###Schedule
+You will need the following things properly installed on your computer.
 
-**10.00am to 1.00pm** - Kickoff, teams assigned, brief released, sprint 1
+* [Git](http://git-scm.com/)
+* Ruby on Rails
+* PSQL
 
-**1.00pm to 1.30pm** - Lunch break
+### Project setup on local environment
 
-**1.30pm to 2.00pm** - How to learn VIM
-
-**2.00pm to 5.00pm** - Sprint 2, presentation, get drunk, go home
+```
+git clone git@github.com:timrobertson0122/craftathon.git
+cd craftathon
+bundle
+bin/rake db:create
+rails s
+```
 
 ###Brief
 
