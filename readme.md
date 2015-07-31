@@ -1,3 +1,17 @@
+To install:
+
+```git clone https://github.com/timrobertson0122/craftathon```
+```rake db:create```
+```rake db:migrate```
+```bundle```
+
+
+Employer - has many jobs, (has many applications through jobs)
+Jobs - belongs to one employer
+Jobhunter - has many applications
+Applications - belongs to one jobhunter
+
+
 #Craftathon-1
 
 Product owners will be on hand to give clarification and feedback will be collected to share with you after the event.
