@@ -49,4 +49,4 @@ One or more may be completed in any order.
 - Creator can assign tags to jobs
 - Users can filter jobs by tags
 - Users can filter jobs by keyword
-- Make the app look pretty
+- +100 points for integrating the typeform API
