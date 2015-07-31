@@ -1,2 +1,4 @@
 <h1>Available jobs</h1>
-<h3><%= @jobs.each { |job| job.title } %></h3>
+<%= @jobs.each do |job| %>
+  <h3><%= job.title %></h3> <%= link_to "Apply for #{job.title}", new_job_jobapplication_path(job) %>
+<% end %>

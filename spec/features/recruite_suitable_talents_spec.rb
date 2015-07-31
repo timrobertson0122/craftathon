@@ -11,4 +11,10 @@ feature 'Recruitement' do
   scenario 'listing jobs' do
     expect(page).to have_content('Junior Front End Developer')
   end
+
+  scenario 'can apply for a job' do
+    job = Job.first
+    click_on "Apply for #{job.title}"
+    expect(current_path).to eq "/jobapplications"
+  end
 end
