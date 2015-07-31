@@ -3,8 +3,10 @@ require 'rails_helper'
 
 feature 'Recruitement' do
   before(:each) do
-    Job.create(title: 'Junior Front End Developer', description: 'HTML5, CSS3, Jquery')
-    Job.create(title: 'Full Stack Developer', description: 'Working on Ruby on Rails')
+    job1 = Job.create(description: 'HTML5, CSS3, Jquery')
+    job2 = Job.create(description: 'Working on Ruby on Rails')
+    Questionaire.create(title: 'Junior Front End Developer', job_id: job1.id)
+    Questionaire.create(title: 'Senior Front End Developer', job_id: job2.id)
     visit '/jobs'
   end
 
@@ -14,7 +16,7 @@ feature 'Recruitement' do
 
   scenario 'can apply for a job' do
     job = Job.first
-    click_on "Apply for #{job.title}"
+    click_on "Apply for #{job.questionaire.title}"
     expect(current_path).to eq "/jobapplications"
   end
 end

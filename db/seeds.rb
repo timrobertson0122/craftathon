@@ -8,6 +8,7 @@
 require 'faker'
 
 100.times do |i|
+  job = Job.create
   questionaire = Questionaire.create(title:Faker::Name.title,
                                       company_name:Faker::Company.name,
                                       size:Faker::Number.between(1,10000),
@@ -24,6 +25,7 @@ require 'faker'
                                       training:Faker::Lorem.sentence,
                                       pay:Faker::Number.negative,
                                       location:Faker::Address.time_zone,
-                                      parttime:Faker::Lorem.word
+                                      parttime:Faker::Lorem.word,
+                                      job_id: job.id
                                       )
 end

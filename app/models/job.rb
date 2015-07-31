@@ -1,4 +1,4 @@
 class Job < ActiveRecord::Base
   has_many :job_applications
-  has_many :questionaires
+  has_one :questionaire
 end
