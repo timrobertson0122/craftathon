@@ -8,7 +8,8 @@
 require 'faker'
 
 100.times do |i|
-  questionaire = Questionaire.create(company_name:Faker::Company.name,
+  questionaire = Questionaire.create(title:Faker::Name.title,
+                                      company_name:Faker::Company.name,
                                       size:Faker::Number.between(1,10000),
                                       positions:Faker::Number.between(1,10),
                                       tech:Faker::Hacker.noun,
