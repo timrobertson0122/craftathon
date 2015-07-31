@@ -1,16 +1,5 @@
-To install:
-
-```git clone https://github.com/timrobertson0122/craftathon```
-```rake db:create```
-```rake db:migrate```
-```bundle```
-
-
-Employer - has many jobs, (has many applications through jobs)
-Jobs - belongs to one employer
-Jobhunter - has many applications
-Applications - belongs to one jobhunter
-
+[![Build Status](https://travis-ci.org/timrobertson0122/craftathon.svg?branch=master)](https://travis-ci.org/timrobertson0122/craftathon)
+[![Coverage Status](https://coveralls.io/repos/timrobertson0122/craftathon/badge.svg?branch=master&service=github)](https://coveralls.io/github/timrobertson0122/craftathon?branch=master)
 
 #Craftathon-1
 
