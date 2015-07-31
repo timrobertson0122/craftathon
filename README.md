@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/timrobertson0122/craftathon.svg?branch=master)](https://travis-ci.org/timrobertson0122/craftathon)
+
 #Craftathon-1
 
 Product owners will be on hand to give clarification and feedback will be collected to share with you after the event.
