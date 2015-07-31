@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   resources :jobs do
     resources :jobapplications
   end
+  resources :questionaires
   get 'jobapplications' => 'jobapplications#index'
 
   # You can have the root of your site routed with "root"

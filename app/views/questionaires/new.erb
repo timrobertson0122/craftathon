@@ -1,0 +1,11 @@
+<%= form_for @questionaire do |f| %>
+  <%= f.label 'Job Title:' %>
+  <%= f.text_field :title %>
+  <%= f.label 'Company Name:' %>
+  <%= f.text_field :company_name %>
+  <%= f.label 'Company Size:' %>
+  <%= f.text_field :size %>
+  <%= f.label 'What will they be doing?' %>
+  <%= f.text_field :tasks %>
+  <%= f.submit 'Create a job' %>
+<% end %>
