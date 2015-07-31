@@ -1,27 +1,24 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Icicleta/Projects/craftathon/spec/features/homepage_feature_spec.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/spec/features/creating_job_feature_spec.rb": [
         1,
         null,
         1,
         null,
         1,
-        1,
-        1,
-        1,
-        1,
-        null,
         null,
         1,
         1,
         1,
         1,
+        4,
         1,
+        null,
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/spec/rails_helper.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/spec/rails_helper.rb": [
         null,
         1,
         1,
@@ -76,14 +73,14 @@
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/config/environment.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/Users/Icicleta/Projects/craftathon/config/application.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/application.rb": [
         1,
         null,
         1,
@@ -120,12 +117,12 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/config/boot.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/boot.rb": [
         1,
         null,
         1
       ],
-      "/Users/Icicleta/Projects/craftathon/config/environments/test.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/environments/test.rb": [
         1,
         null,
         null,
@@ -169,7 +166,7 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/config/initializers/assets.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -182,7 +179,7 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/config/initializers/backtrace_silencers.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -191,18 +188,18 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/config/initializers/cookies_serializer.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/initializers/cookies_serializer.rb": [
         null,
         null,
         1
       ],
-      "/Users/Icicleta/Projects/craftathon/config/initializers/filter_parameter_logging.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/Users/Icicleta/Projects/craftathon/config/initializers/inflections.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -220,18 +217,18 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/config/initializers/mime_types.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/config/initializers/session_store.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/initializers/session_store.rb": [
         null,
         null,
         1
       ],
-      "/Users/Icicleta/Projects/craftathon/config/initializers/wrap_parameters.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -247,7 +244,7 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/config/routes.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/config/routes.rb": [
         1,
         null,
         null,
@@ -255,6 +252,7 @@
         1,
         1,
         null,
+        1,
         1,
         null,
         null,
@@ -310,31 +308,55 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/helpers/application_helper.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/helpers/employers_helper.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/helpers/employers_helper.rb": [
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/helpers/jobapplications_helper.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/helpers/jobapplications_helper.rb": [
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/helpers/jobhunters_helper.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/helpers/jobhunters_helper.rb": [
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/helpers/jobs_helper.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/helpers/jobs_helper.rb": [
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/helpers/welcome_helper.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/helpers/questionaires_helper.rb": [
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/spec/features/job_applications_feature_spec.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/helpers/welcome_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/darylwatson/Desktop/projects/craftathon-1/spec/features/homepage_feature_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/darylwatson/Desktop/projects/craftathon-1/spec/features/job_applications_feature_spec.rb": [
         1,
         null,
         1,
@@ -348,7 +370,7 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/spec/features/recruite_suitable_talents_spec.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/spec/features/recruite_suitable_talents_spec.rb": [
         1,
         1,
         null,
@@ -370,7 +392,7 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/spec/models/job_spec.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/spec/models/job_spec.rb": [
         1,
         null,
         1,
@@ -379,12 +401,12 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/models/job.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/models/job.rb": [
         1,
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/spec/models/jobapplications_spec.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/spec/models/jobapplications_spec.rb": [
         1,
         null,
         1,
@@ -394,14 +416,14 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/models/job_application.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/models/job_application.rb": [
         1,
         1,
         1,
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/spec/models/jobhunter_spec.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/spec/models/jobhunter_spec.rb": [
         1,
         null,
         1,
@@ -410,35 +432,59 @@
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/models/jobhunter.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/models/jobhunter.rb": [
         1,
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/controllers/welcome_controller.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/controllers/questionaires_controller.rb": [
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
         1,
         1,
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/controllers/application_controller.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/controllers/application_controller.rb": [
         1,
         null,
         null,
         1,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/controllers/jobs_controller.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/models/questionaire.rb": [
+        1,
+        null
+      ],
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/controllers/jobs_controller.rb": [
         1,
         1,
-        3,
+        4,
         null,
         null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/controllers/welcome_controller.rb": [
+        1,
         1,
         null,
         null
       ],
-      "/Users/Icicleta/Projects/craftathon/app/controllers/jobapplications_controller.rb": [
+      "/Users/darylwatson/Desktop/projects/craftathon-1/app/controllers/jobapplications_controller.rb": [
         1,
         null,
         1,
@@ -454,6 +500,6 @@
         null
       ]
     },
-    "timestamp": 1438351477
+    "timestamp": 1438353281
   }
 }

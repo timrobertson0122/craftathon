@@ -4,5 +4,6 @@ class JobsController < ApplicationController
   end
 
   def new
+    @questionaire = Questionaire.new
   end
 end
