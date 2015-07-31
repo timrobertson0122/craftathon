@@ -5,7 +5,7 @@ feature 'Recruitement' do
   before(:each) do
     Job.create(title: 'Junior Front End Developer', description: 'HTML5, CSS3, Jquery')
     Job.create(title: 'Full Stack Developer', description: 'Working on Ruby on Rails')
-    visit '/'
+    visit '/jobs'
   end
 
   scenario 'listing jobs' do
