@@ -47,4 +47,5 @@ group :test do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'shoulda'
+  gem 'faker'
 end
