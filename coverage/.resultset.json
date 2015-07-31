@@ -12,7 +12,9 @@
         1,
         1,
         1,
+        1,
         4,
+        1,
         1,
         null,
         null,
@@ -404,6 +406,7 @@
       "/Users/darylwatson/Desktop/projects/craftathon-1/app/models/job.rb": [
         1,
         1,
+        1,
         null
       ],
       "/Users/darylwatson/Desktop/projects/craftathon-1/spec/models/jobapplications_spec.rb": [
@@ -465,6 +468,7 @@
       ],
       "/Users/darylwatson/Desktop/projects/craftathon-1/app/models/questionaire.rb": [
         1,
+        1,
         null
       ],
       "/Users/darylwatson/Desktop/projects/craftathon-1/app/controllers/jobs_controller.rb": [
@@ -500,6 +504,6 @@
         null
       ]
     },
-    "timestamp": 1438353281
+    "timestamp": 1438353818
   }
 }

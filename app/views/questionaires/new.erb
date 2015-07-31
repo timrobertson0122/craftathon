@@ -1,4 +1,6 @@
 <%= form_for @questionaire do |f| %>
+  <%= f.label 'Job Title:' %>
+  <%= f.text_field :title %>
   <%= f.label 'Company Name:' %>
   <%= f.text_field :company_name %>
   <%= f.label 'Company Size:' %>
